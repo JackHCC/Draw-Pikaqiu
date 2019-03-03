@@ -81,4 +81,4 @@ def Upgarde_Init():
 ![皮卡丘截图](/pikaqiu.png)
 
 视频动画可以打包下载该文件，点击pikaqiu.mp4观看
-[下载地址]()
+[下载地址](https://github.com/JackHCC/Pikaqiu)
