@@ -79,3 +79,5 @@ def Upgarde_Init():
 ```
 # 展示
 ![皮卡丘截图](/pikaqiu.png)
+
+![](/pikaqiu.mp4)
