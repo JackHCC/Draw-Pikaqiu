@@ -77,4 +77,5 @@ def Upgarde_Init():
             t.update()
             time.sleep(1)        
 ```
-#展示
+# 展示
+![皮卡丘截图](/pikaqiu.png)
